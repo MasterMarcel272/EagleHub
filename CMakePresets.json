@@ -1,0 +1,15 @@
+﻿{
+  "version": 2,
+  "configurePresets": [
+    {
+      "name": "vs2026-qt",
+      "displayName": "Visual Studio 2026 x64 + Qt",
+      "generator": "Visual Studio 18 2026",
+      "architecture": "x64",
+      "binaryDir": "${sourceDir}/out/build/${presetName}",
+      "cacheVariables": {
+        "Qt6_DIR": "D:/Qt/6.11.2/msvc2022_64/lib/cmake/Qt6"
+      }
+    }
+  ]
+}

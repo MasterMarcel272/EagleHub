@@ -1,0 +1,11 @@
+.vs/
+out/
+build/
+artifacts/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+assets/FeatherPhoto.ico
+assets/FeatherPhoto.qrc
+assets/FeatherPhoto.rc

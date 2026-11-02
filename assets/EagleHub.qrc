@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/apps">
+        <file alias="FeatherPhoto.png">FeatherPhoto.png</file>
+    </qresource>
+    <qresource prefix="/branding">
+        <file alias="EagleHubIcon.png">EagleHubIcon.png</file>
+    </qresource>
+    <qresource prefix="/screenshots">
+        <file alias="FeatherPhoto-1.png">FeatherPhoto-1.png</file>
+        <file alias="FeatherPhoto-2.png">FeatherPhoto-2.png</file>
+        <file alias="FeatherPhoto-3.png">FeatherPhoto-3.png</file>
+    </qresource>
+</RCC>
